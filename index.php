@@ -14,7 +14,7 @@
     <h1 class="text-center mb-4">Sistema de Gestión Académica</h1>
     
     <div class="alert alert-success text-center">
-        <strong>¡Ambiente Listo!</strong> Bootstrap está cargando desde tu carpeta local.
+        <strong>¡Ambiente Listo!</strong> Bienvenidos al Sistema de Gestión Académica 
     </div>
 
     <div class="card">
