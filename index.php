@@ -14,7 +14,7 @@
     <h1 class="text-center mb-4">Sistema de Gestión Académica</h1>
     
     <div class="alert alert-success text-center">
-        <strong>¡Ambiente Listo!</strong> Bienvenidos al Sistema de Gestión Académica 
+        <strong>¡Bienvenidos!</strong>
     </div>
 
     <div class="card">
